@@ -10,7 +10,7 @@ body {
     padding: 1rem 0.5rem;
 }
 
-h1, h2, h3 {
+h1, h2, h3, .tricks {
     text-align: center;
 }
 
@@ -31,6 +31,13 @@ img {
 h3 {
     text-decoration: underline;
     font-weight: 100;
+}
+
+.tricks {
+    background-color: rgb(245, 192, 94);
+    color: grey;
+    font-size: 0.8rem;
+    font-weight: bold;
 }
 
 .bold {
