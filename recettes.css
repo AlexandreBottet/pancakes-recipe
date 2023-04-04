@@ -1,0 +1,38 @@
+html {
+    background-color: white;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #fff3db;
+    width: 500px;
+    margin: 0 auto;
+    padding: 1rem 0.5rem;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1, h2 {
+    color: #f02425;
+}
+
+h1 {
+    color: white;
+    background-color: #f02425;
+    text-transform: uppercase;
+}
+
+h3 {
+    text-decoration: underline;
+    font-weight: 100;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.red {
+    color: #f02425;
+}
